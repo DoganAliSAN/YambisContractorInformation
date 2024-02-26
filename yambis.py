@@ -1,6 +1,6 @@
 import requests
 import json
-session_id =  '3vracds0bdd4uvtppvro1vml'
+session_id =  'CHANGEME'
 length = '10' #number of rows
 filename = 'muteahhitler.json' #don't forget to put '.json' at the end
 cookies = {
